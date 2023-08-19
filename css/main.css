@@ -4,13 +4,13 @@
 }
 
 body {
-  background: #F2F2F2;
+  background: #d1ebe0;
   margin: 0;
   font-family: poppins;
 }
 
 .navbar {
-  background: white;
+  background: rgb(253, 253, 253);
   padding: 1em;
 }
 .navbar .logo {
@@ -60,7 +60,7 @@ section {
 .left-col .subhead {
   text-transform: uppercase;
   font-weight: bold;
-  color: grey;
+  color: rgb(121, 120, 120);
   letter-spacing: 0.3em;
 }
 .left-col h1 {
@@ -70,7 +70,7 @@ section {
 }
 .left-col .primary-cta {
   background-color: var(--primary-color);
-  color: white;
+  color: rgb(255, 255, 255);
   text-decoration: none;
   padding: 0.6em 1.3em;
   font-size: 1.4em;
